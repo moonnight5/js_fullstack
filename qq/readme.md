@@ -50,6 +50,7 @@ QQ 631758924 加密过后的
   作用域 scope 
   - 全局作用域 window  
   - window.name（js 独有 宿主是浏览器窗口）===name(其他语言也一样)
+  
 
   
 
